@@ -1,0 +1,29 @@
+{
+  "NetworkTables": {
+    "LiveWindow": {
+      "FunnelSubsystem": {
+        "open": true
+      },
+      "Ungrouped": {
+        "open": true
+      },
+      "VisionSubsystem": {
+        "open": true
+      }
+    },
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/LiveWindow/Ungrouped/DifferentialDrive[1]": "DifferentialDrive",
+      "/LiveWindow/Ungrouped/PIDController[1]": "PIDController",
+      "/LiveWindow/Ungrouped/Scheduler": "Scheduler",
+      "/SmartDashboard/SendableChooser[0]": "String Chooser"
+    }
+  },
+  "NetworkTables Settings": {
+    "mode": "Client",
+    "serverTeam": "localhost"
+  },
+  "NetworkTables View": {
+    "visible": false
+  }
+}
